@@ -11,7 +11,7 @@ I am a frontend developer with more than four years of commercial experience. I 
 - **UI:** CSS Modules, Sass, responsive and accessible interfaces
 - **Quality:** Vitest, Testing Library, ESLint, Storybook, GitHub Actions
 - **Tooling:** Vite, Webpack, Git
-- **Additional experience:** React Native with Expo, Node.js, Express, Prisma
+- **Additional experience:** Node.js, Express, Prisma
 
 ## Selected projects
 
@@ -27,12 +27,6 @@ A full-stack SEO monitoring application with scheduled website checks, performan
 A Next.js content application with character data, articles, quizzes, and an AI-assisted chat experience.
 
 **Stack:** Next.js, React, TypeScript, Redux Toolkit
-
-### [Level App](https://github.com/developerRustam/levelapp)
-
-A cross-platform mobile application prototype built around personal progress, skills, quests, and a wheel-of-life interface.
-
-**Stack:** React Native, Expo, TypeScript
 
 ## Current focus
 
