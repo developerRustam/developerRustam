@@ -17,7 +17,7 @@ I am a frontend developer with more than four years of commercial experience. I 
 
 ### [SEO Track](https://github.com/developerRustam/seoTrack)
 
-A full-stack SEO monitoring application with scheduled website checks, performance metrics, incident tracking, authentication, and project dashboards.
+A full-stack SEO monitoring application with scheduled website checks, performance history, authentication, and project dashboards.
 
 **Stack:** React, TypeScript, Redux Toolkit, Vite, Node.js, Prisma, Vitest  
 **Live:** [seo-track-lyart.vercel.app](https://seo-track-lyart.vercel.app)
